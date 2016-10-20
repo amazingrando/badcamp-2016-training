@@ -1,0 +1,3 @@
+{% set content = content|without('links') %}
+{% set headerAttributes = title_attributes.addClass('heading-2') %}
+{% include "@molecules/article-teaser/article-teaser.twig" %}

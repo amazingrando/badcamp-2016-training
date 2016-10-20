@@ -1,0 +1,12 @@
+{% set headerAttributes = ' class="heading-2" ' %}
+<article{{ attributes.addClass('article-teaser') }}>
+
+  <h2{{ headerAttributes|raw }}>
+    <a href="{{ url }}" rel="bookmark">{{ label }}</a>
+  </h2>
+
+  <div{{ content_attributes }}>
+    {{ content }}
+  </div>
+
+</article>

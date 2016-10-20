@@ -1,0 +1,5 @@
+.heading-1 {
+  @include font-size(1.8);
+  font-weight: 700;
+  color: red;
+}
