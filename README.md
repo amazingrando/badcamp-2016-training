@@ -1,6 +1,6 @@
 # BADcamp — Living Style Guides in Drupal 8 for Designers and Front-enders
 
-This Drupal site uses the Four Kitchens base theme with Pattern Lab, found at https://github.com/fourkitchens/fourk.
+This Drupal site uses the Four Kitchens base theme with Pattern Lab, found at https://github.com/fourkitchens/emulsify. (Formerly fourk)
 
 
 ## Before you start
